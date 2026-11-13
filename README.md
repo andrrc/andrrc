@@ -41,15 +41,15 @@ Software Developer | Formado em Análise e Desenvolvimento de Sistemas | Python,
     <img src="https://img.shields.io/badge/GitHub-andrrc-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de andrrc" />
   </a>
   <!-- TODO: troque SEU_USUARIO pelo seu LinkedIn -->
-  <a href="https://www.linkedin.com/in/SEU_USUARIO">
+  <a href="https://www.linkedin.com/in/andre-cassimiro-vieira/">
     <img src="https://img.shields.io/badge/LinkedIn-TODO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (preencher)" />
   </a>
   <!-- TODO: troque pelo seu e-mail -->
-  <a href="mailto:SEU_EMAIL@exemplo.com">
+  <a href="mailto:escritorio@sommaia.com.br">
     <img src="https://img.shields.io/badge/Email-TODO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail (preencher)" />
   </a>
   <!-- TODO: troque pela URL do seu portfólio/site (ou remova o badge) -->
-  <a href="https://SEU_SITE.exemplo.com">
+  <a href="https://sommaia.com.br">
     <img src="https://img.shields.io/badge/Portfólio-TODO-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio (preencher)" />
   </a>
 </p>
